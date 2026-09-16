@@ -1,0 +1,4 @@
+str1=int(input("enter the value of first elemenet:"))
+str2=int(input("enter the value of second element:"))
+
+print("sum",str1+str2)
